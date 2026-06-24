@@ -135,7 +135,7 @@ Used StandardScaler for normalization of numerical features.
 
 ---
 
-# Model Building
+# Machine Learning Models
 
 The following machine learning models were trained and evaluated:
 
@@ -147,7 +147,7 @@ The following machine learning models were trained and evaluated:
 
 ---
 
-# Machine Learning Models
+# Model Evaluation
 
 Models were evaluated using:
 
