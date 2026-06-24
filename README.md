@@ -1,4 +1,4 @@
-#
+# CreditFlow: Loan Eligibility Assessment System
 # Problem Statement
 
 A mid-sized financial company named SecureTrust Bank offers personal and home loans to customers across urban and rural regions of India. Every day, hundreds of customers apply for loans through online and branch applications.
@@ -11,3 +11,11 @@ As a result, the bank faces two major challenges:
 2. High-risk customers sometimes get approved, leading to financial losses.
 
 To solve this problem, the bank wants to introduce an intelligent loan approval system powered by Machine Learning that can automatically analyse applicant details and predict whether a loan should be Approved or Rejected before final human verification.
+
+### 🎯 Objectives
+
+- Automate loan approval decisions
+- Reduce financial risk
+- Improve decision consistency
+- Minimize manual verification effort
+- Enable data-driven lending decisions
