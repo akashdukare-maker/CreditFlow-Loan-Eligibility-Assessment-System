@@ -166,7 +166,40 @@ The Gaussian Naive Bayes model was selected as the final model based on its perf
 
 ---
 
+# Project Workflow
 
+```text
+Dataset
+   ↓
+Data Cleaning
+   ↓
+Encoding
+   ↓
+Feature Engineering
+   ↓
+Scaling
+   ↓
+Train-Test Split
+   ↓
+Model Training
+   ↓
+Model Evaluation
+   ↓
+Loan Approval Prediction
+```
+
+---
+
+# Future Improvements
+
+- Hyperparameter Tuning
+- Cross Validation
+- Feature Selection
+- Model Deployment using Flask/FastAPI
+- Real-Time Prediction API
+- Interactive Dashboard
+
+---
 
 
 
