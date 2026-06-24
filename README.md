@@ -74,7 +74,7 @@ Loan_Approved
 
 This plot shows the distribution of approved and rejected loan applications.
 
-![Loan Approval Distribution](Images/loan_approval_distribution(1).png)
+![Loan Approval Distribution](Images/loan_approval_distribution.png)
 
 ---
 
