@@ -214,7 +214,35 @@ Loan Approval Prediction
 
 ---
 
+# 📁 Project Structure
 
+```text
+CreditFlow-Loan-Eligibility-Assessment-System/
+│
+├── creditwise_loan_system.ipynb
+├── dataset.csv
+├── README.md
+│
+├── images/
+│   ├── loan_approval_distribution.png
+│   ├── correlation_heatmap.png
+│   ├── credit_score_vs_approval.png
+│   ├── education_level_distribution.png
+│   └── feature_analysis.png
+│
+└── requirements.txt
+```
+
+---
+
+## Author
+
+**Akash Dukare**
+
+### Connect With Me
+
+- LinkedIn: [www.linkedin.com/in/akashdukare](https://www.linkedin.com/in/akash-dukare-812bb822b)
+---
 
 
 
