@@ -50,6 +50,14 @@ ___
 | Employer_Category  | Govt / Private / Self                   |
 | Loan_Approved      | Target Variable                         |
 
+## Target Variable
+
+```text
+Loan_Approved
+1 → Approved
+0 → Rejected
+```
+
 ---
 
 
