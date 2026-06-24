@@ -14,7 +14,6 @@ To solve this problem, the bank wants to introduce an intelligent loan approval 
 
 # Objectives
 The objective of this project is to automate the loan approval process based on customer details provided during the loan application process.
-
 The system analyses applicant financial, personal, and credit-related information and predicts whether a loan application should be approved or rejected.
 
 The goal is to:
