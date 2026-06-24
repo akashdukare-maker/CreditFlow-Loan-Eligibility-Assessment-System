@@ -235,9 +235,9 @@ CreditFlow-Loan-Eligibility-Assessment-System/
 
 ---
 
-## Author
+# Author
 
-**Akash Dukare**
+## Akash Dukare
 
 ### Connect With Me
 
