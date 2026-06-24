@@ -107,6 +107,72 @@ Boxplots comparing Applicant Income, Credit Score, Debt-to-Income Ratio (DTI), a
 This histogram highlights the relationship between applicant credit scores and loan approval outcomes.
 
 ![Credit Score vs Loan Approval](Images/credit_score_vs_approval.png)
+___
+
+# Feature Transformation
+
+### Label Encoding
+
+Applied on:
+
+* Education_Level
+* Loan_Approved
+
+### One Hot Encoding
+
+Applied on:
+
+* Employment_Status
+* Marital_Status
+* Loan_Purpose
+* Property_Area
+* Gender
+* Employer_Category
+
+### Feature Scaling
+
+Used StandardScaler for normalization of numerical features.
+
+---
+
+# Model Building
+
+The following machine learning models were trained and evaluated:
+
+### Logistic Regression
+
+### K-Nearest Neighbors (KNN)
+
+### Gaussian Naive Bayes
+
+---
+
+# Machine Learning Models
+
+Models were evaluated using:
+
+* Accuracy
+* Precision
+* Recall
+* F1 Score
+* Confusion Matrix
+___  
+
+# Final Model
+
+### Naive Bayes
+
+The Gaussian Naive Bayes model was selected as the final model based on its performance on the processed dataset.
+
+---
+
+
+
+
+
+
+
+
 
 
 
