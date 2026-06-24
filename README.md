@@ -25,6 +25,19 @@ The goal is to:
 - Enable data-driven lending decisions
 ___
 
+# Tech Stack
+
+| Category | Tools |
+|-----------|--------|
+| Programming | Python |
+| Data Analysis | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn |
+| Machine Learning | Scikit-Learn |
+| Development | Jupyter Notebook |
+
+---
+
+
 # Data Dictionary
 
 | Variable           | Description                             |
