@@ -11,7 +11,7 @@ As a result, the bank faces two major challenges:
 2. High-risk customers sometimes get approved, leading to financial losses.
 
 To solve this problem, the bank wants to introduce an intelligent loan approval system powered by Machine Learning that can automatically analyse applicant details and predict whether a loan should be Approved or Rejected before final human verification.
----
+___
 
 # Objectives
 The objective of this project is to automate the loan approval process based on customer details provided during the loan application process.
